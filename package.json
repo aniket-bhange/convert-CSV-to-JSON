@@ -1,0 +1,13 @@
+{
+  "name": "csvtojson",
+  "description": "",
+  "author": "Aniket Bhange <aniketbhange3@gmail.com>",
+  "dependencies": {
+    "express": "4.2.x",
+    "underscore": "*",
+    "csvtojson" : "*"
+  },
+  "preferGlobal": true,
+  "private": true,
+  "analyze": true
+}
